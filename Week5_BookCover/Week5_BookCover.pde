@@ -96,7 +96,7 @@ void draw() {
   translate(tail.x, tail.y);
   fill(247, 66, 0, 70);
   beginShape();
-  triangle(0, -35, (width/6*1.5)+20, -(height/9*3.5), (width/6)-11, 0);
+  triangle(0, -35, (width/6*1.5)+20, -(height/9*3.5), (width/6)-5, 0);
   endShape();
   popMatrix();
 
