@@ -1,6 +1,6 @@
 /* 
  Printing Code ITP
- (Spring 2012)
+ (Spring 2013)
  
  Assignment Week 6: 
  Design a logo that has some sort of dynamic expression. It does not need to be random, but should 
