@@ -1,6 +1,6 @@
 /* 
  Printing Code ITP
- (Spring 2012)
+ (Spring 2013)
  
  Assignment Week 6: 
  Design a logo that has some sort of dynamic expression. It does not need to be random, but should 
@@ -38,8 +38,7 @@ void draw() {
   ModularGrid grid = new ModularGrid(20, 20, 3, 36.5);
   
   int r = (int)random(3);
-    boarder2();
-/*
+    
   if (r ==0) {
     boarder1();
   }
@@ -51,7 +50,7 @@ void draw() {
   if (r ==2) {
     boarder3();
   }
-*/
+
   noStroke();
 
   //uncomment to display the grid
